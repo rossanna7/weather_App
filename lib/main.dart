@@ -23,7 +23,7 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
 
 
-  int currentIndex=0;
+  int  currentIndex=0;
   final screens=[ weatherApp(),empty1(),empty2(),yourlooc()];
 
   @override
